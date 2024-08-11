@@ -5,7 +5,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     sites: [
       {
         title: "主标题",
-        url: "http://www.your-web-page.com/",
+        url: "http://www.Gaokaiming2003.github.io",
         icon: "",
         color: "#0171CD",
       },
@@ -49,7 +49,9 @@ const WEBSITE_SORTS: WebsiteSort[] = [
 ];
 
 /** Website 配置（2023.3.29 已废弃） */
-const WEBSITE_ITEMS: WebsiteItem[] = [];
+const WEBSITE_ITEMS: WebsiteItem[] = [
+  {id: 1, title: "分类1"}
+];
 
 const GLOBAL_CONFIG = {
   /**
